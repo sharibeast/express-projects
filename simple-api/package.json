@@ -1,0 +1,15 @@
+{
+  "name": "simple-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api-design": "1.0.0"
+  }
+}

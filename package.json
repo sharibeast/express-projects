@@ -1,0 +1,12 @@
+{
+  "name": "express-projects",
+  "private": "true",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "express-template",
+    "user-registration",
+    "api-design"
+  ]
+}
